@@ -217,8 +217,23 @@
     .sub-contents-1_info img{
       width: 100%;
     }
+    .sub-contents-1_vertual a{
+      display: flex;
+      gap:100px;
+    }
+    .sub-contents-1_vertual_responsive{
+      width:50%;
+      padding-top:40px;
+    }
     .sub-contents-1_vertual img{
       width:30%;
+    }
+    .sub-contents-2 a{
+      display: flex;
+    }
+    .sub-contents_padding p{
+      width:300px;
+      padding-top: 40px;
     }
     .push{
       height: 850px;
